@@ -1,0 +1,3 @@
+# Contributing to Reddit Trend Analyzer
+
+Thank you for considering contributing...
