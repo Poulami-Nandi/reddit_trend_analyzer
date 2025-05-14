@@ -1,7 +1,7 @@
 ---
 name: "General Issue, Bug, or Feature Request"
 about: "Report a bug, suggest a feature, or ask a question"
-title: "[Bug] <short description>" or "[Feature] <short description>"
+title: "[short description of bug OR short description of feature]"
 labels: null
 assignees: null
 ---
