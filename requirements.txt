@@ -1,3 +1,4 @@
+wordcloud==1.9.2
 streamlit
 praw
 textblob
