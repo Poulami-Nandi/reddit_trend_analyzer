@@ -1,5 +1,5 @@
 ---
-name: General Issue / Bug / Feature Request
+name: General Issue OR Bug OR Feature Request
 about: Report a bug, suggest a feature, or ask a question
 title: "[Bug] <short description>" or "[Feature] <short description>"
 labels: ''
