@@ -1,6 +1,6 @@
+streamlit
 praw
 textblob
 pandas
 matplotlib
 seaborn
-streamlit
