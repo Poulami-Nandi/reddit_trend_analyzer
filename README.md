@@ -52,7 +52,7 @@ reddit_trend_analyzer/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/reddit_trend_analyzer.git
+git clone https://github.com/Poulami-Nandi/reddit_trend_analyzer.git
 cd reddit_trend_analyzer
 ```
 Install dependencies:
