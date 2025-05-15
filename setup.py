@@ -8,7 +8,7 @@ setup(
     description='Reddit Hashtag/Keyword Trend Analyzer using PRAW, SQLite, and Streamlit',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/reddit_trend_analyzer',
+    url='https://github.com/Poulami-Nandi/reddit_trend_analyzer',
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
