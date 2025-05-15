@@ -1,7 +1,27 @@
 [build-system]
-requires = ['setuptools>=42', 'wheel']
-build-backend = 'setuptools.build_meta'
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
 
 [project]
-name = 'reddit_trend_analyzer'
-...
+name = "reddit_trend_analyzer"
+version = "0.1.0"
+description = "Reddit Hashtag/Keyword Trend Analyzer using PRAW, SQLite, and Streamlit"
+authors = [
+    { name="Poulami Nandi", email="nandi.poulami91@gmail.com" }
+]
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+keywords = ["reddit", "trend", "analytics", "streamlit", "sentiment-analysis", "sqlite"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/reddit_trend_analyzer"
+Repository = "https://github.com/yourusername/reddit_trend_analyzer"
+
+[tool.setuptools.packages.find]
+where = ["reddit_trend_analyzer"]
